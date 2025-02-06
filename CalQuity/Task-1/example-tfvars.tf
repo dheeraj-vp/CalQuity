@@ -5,7 +5,7 @@ supabase_db_password   = "YourStrongPassword!"
 vm_size                = "Standard_B2s"
 resource_group_name    = "supabase-rg"
 
-#replace with your 
+#replace with your details
 tenant_id       = "e8f899c6-....99d9"
 subscription_id = "8513e23..........b-9b916aa395e1"
 client_id       = "df79159.......6-94d8c1c2615f"
