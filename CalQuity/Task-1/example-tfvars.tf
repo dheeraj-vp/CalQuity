@@ -1,6 +1,6 @@
 location               = "East US"
 admin_username         = "azureuser"
-admin_ssh_public_key   = "ssh-rsa AAAAB3...your-key...== your-email@example.com" //just change this
+admin_ssh_public_key   = "ssh-rsa AAAAB3...your-key...== your-email@example.com" //replace this with your public key
 supabase_db_password   = "YourStrongPassword!"
 vm_size                = "Standard_B2s"
 resource_group_name    = "supabase-rg"
